@@ -1,6 +1,6 @@
 ## Olá!  
                                           Eu sou a Matheus Sodré, sou programador e apaixonado por tecnologia.
-                                                Conheça um pouco do meu trabalho! Bom proveito.
+                                                          Dev Front-End Jr pela Trin.ca
 <div align="center">
   <a href="https://github.com/matheussodres">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheussodres&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
