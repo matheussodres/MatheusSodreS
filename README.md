@@ -1,4 +1,4 @@
-## Olá!  
+## 
                                           Eu sou a Matheus Sodré, sou programador e apaixonado por tecnologia.
                                                           Dev Front-End Jr pela Trin.ca
 <div align="center">
